@@ -49,7 +49,7 @@ const Banner = () => {
                 <span className='tagline'>Welcome to my Portfolio</span>
                 <h1>{`Hi I'm Web Developer`}<span className="wrap">{text}</span></h1>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam ducimus commodi minus aperiam nulla accusantium nobis distinctio, est enim repudiandae deleniti sapiente molestiae earum velit omnis voluptatem voluptate inventore ipsa non illo!</p>
-                <button onClick={()=> console.log('connect')}>Let's Connect <ArrowRightCircle size={25}/></button>
+                <button  onClick={()=> console.log('connect')}>Let's Connect <ArrowRightCircle size={25}/></button>
             </Col>
             <Col xs={12} md={6} xl={5}>
                 <img src={headerImg} className="mainImg" alt="headerImage"/>

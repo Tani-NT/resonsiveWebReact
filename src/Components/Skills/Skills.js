@@ -37,7 +37,7 @@ const Skills = () => {
             <Row>
                 <Col>
                     <div className="skill-box">
-                        <h2>Skills</h2>
+                        <h1>Skills</h1>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br></br> Blanditiis quibusdam officia id quo tenetur asperiores magni, sapiente eaque commodi vitae consequuntur eum sunt optio nobis? Ut autem quis eaque in laboriosam obcaecati, eligendi rem.</p>
                         <Carousel responsive={responsive} infinite={true} className="skill-slider">
                             <div className="item">
@@ -54,7 +54,7 @@ const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image1"/>
-                                <h2>Web Design</h2>
+                                <h2>UI / UX Tools</h2>
                             </div>
                         </Carousel>
                     </div>

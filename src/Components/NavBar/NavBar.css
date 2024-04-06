@@ -114,6 +114,7 @@ nav.navbar {
     height: 17px;
     background-image: none;
     position: relative;
+    text-align: center;
     border-bottom: 2px solid #fff;
     transition: all 300ms linear;
     top: -2px;
